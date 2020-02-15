@@ -48,7 +48,7 @@ const test = () => (
 						<h1 className="text-white">
 							Hi, I’m <br/>
 							<span>Amrish Tagadghar</span> <br/>
-							Visualier 						
+							Visualizer 						
 						</h1>
 						<p className="mx-auto text-white  mt-20 mb-40">
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp <br/> or incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
