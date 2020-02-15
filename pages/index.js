@@ -47,8 +47,8 @@ const test = () => (
 					<div className="col-lg-6 col-md-12 banner-left">
 						<h1 className="text-white">
 							Hi, I’m <br/>
-							<span>Etta Jennings</span> <br/>
-							Art Director						
+							<span>Amrish Tagadghar</span> <br/>
+							Visualier 						
 						</h1>
 						<p className="mx-auto text-white  mt-20 mb-40">
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp <br/> or incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
